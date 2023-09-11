@@ -2,7 +2,7 @@ class Config(object):
     LOGGER = True
     TOKEN = ""
     DB_URI = ""
-    OWNER_ID = 895373440
+    OWNER_ID = ""
 
 
 class Production(Config):
